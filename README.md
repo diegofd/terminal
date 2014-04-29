@@ -7,6 +7,8 @@ Arduino terminal library
 How to use:
 
 ```
+#include <terminal.h>
+
 Terminal *terminal;
 
 void test_function(short argc, char* argv[]) {
